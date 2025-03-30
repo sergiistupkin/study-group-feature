@@ -5,7 +5,7 @@ This repository contains tests and scripts related to the new Study Group featur
 
 ## Structure
 - `sql/` – SQL scripts for querying study groups
-- `docs/` – Test plan with written test cases
+- `docs/` – Test plan with written test cases and Test task
 - `tests/ComponentTests` – NUnit controller tests
 - `tests/UnitTests` – NUnit unit tests for StudyGroup model
 
